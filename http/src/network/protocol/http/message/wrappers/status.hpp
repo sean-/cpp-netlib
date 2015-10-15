@@ -9,6 +9,7 @@
 #define NETWORK_PROTOCOL_HTTP_MESSAGE_WRAPPERS_STATUS_HPP_20100603
 
 #include <boost/cstdint.hpp>
+#include <network/protocol/http/response.hpp>
 
 namespace network {
 namespace http {
