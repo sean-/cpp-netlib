@@ -16,6 +16,7 @@
 #include <network/protocol/http/client/connection_manager.hpp>
 #include <network/protocol/http/client/simple_connection_manager.hpp>
 #include <network/protocol/http/request.hpp>
+#include <network/protocol/http/response.hpp>
 #include <network/detail/debug.hpp>
 
 namespace network {
